@@ -298,6 +298,10 @@ footer {
 }
 
 @media (max-width:768px) {
+    .botao-form {
+        width: 100%;
+    }
+
     .container-ofertas {
         flex-direction: column;
         height: 100%;
